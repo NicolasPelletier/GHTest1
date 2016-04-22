@@ -4,7 +4,7 @@
   "description": "For Demonstrating stuff happening.",
   "scripts": {
     "test": "eslint .",
-    "eslint": "eslint ."
+    "eslint": "./node_modules/eslint/bin/eslint.js ."
   },
   "license": "UNLICENSED",
   "dependencies": {
