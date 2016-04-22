@@ -1,0 +1,14 @@
+{
+  "name": "GHTest1",
+  "version": "1.0.0",
+  "description": "For Demonstrating stuff happening.",
+  "scripts": {
+    "test": "eslint .",
+    "eslint": "eslint ."
+  },
+  "license": "UNLICENSED",
+  "dependencies": {
+    "eslint": "^2.7.0",
+    "eslint-config-google": "^0.5.0"
+  }
+}
