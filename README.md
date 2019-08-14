@@ -56,3 +56,6 @@ $
 ### Conclusion
 
 When calling the script with the full path, it works. So it seems that when the folder has %2F in its name, npm has trouble resolving the path. It should be able to find the script to run in /node_modules/.bin but it does not.
+
+
+#### Note: Adding text to see the CLA
